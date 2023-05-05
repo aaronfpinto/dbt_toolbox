@@ -1,0 +1,18 @@
+# DBT
+dbt_packages/
+target/
+logs/
+
+keyfile.json
+profiles.yml
+.idea/
+.user.yml
+
+# ENVS
+env/
+venv/
+.env
+.venv/
+
+# VS
+.vscode/
